@@ -67,7 +67,7 @@ The CMakeList.txt file and cmake-build-debug folder should include all the neces
 
 #### On CLion
 Click the run button - or - Shift + F10
-<br><br>
+
 <br><br>
 <br><br>
 <br><br>
