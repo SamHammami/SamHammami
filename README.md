@@ -22,7 +22,6 @@ Developed by Sam Hammami '25
 ****************************
 **Inheritance diagram:**
 ****************************
-
  ```mermaid
 graph TD;
     binaryTreeClass-->binarySearchTreeClass;
