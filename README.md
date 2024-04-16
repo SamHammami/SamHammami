@@ -39,11 +39,11 @@ graph TD;
 - AVLtrees.h:<br>
   This is the header file for the AVLtrees.cpp file. It contains the three classes hierarchy (binaryTreeClass, binarySearchTreeClass, balancedBinarySearchTreeClass) and the methods' prototypes.
 
-  
+<br>
 ****************************
-<br><br><br>
+<br><br>
 ## Getting Started
-
+<br>
 #### This program uses the following libraries:
 - #include \<iostream>
 - #include \<queue>
