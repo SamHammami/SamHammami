@@ -1,14 +1,9 @@
 
-#  *----------------  Wheaton College, MA - Spring 2024   ---------------*
+#  *----------------  Wheaton College, MA - Spring 2024   ---------------* <br><br>
 
 ****************************
-# COMP 318 Algorithms - Project 2 
-## ***AVL Trees***
-
-
-****************************
-## Description
-
+## COMP 318 Algorithms - Project 2 
+### Description - ***AVL Trees***
 This project introduces an implementation of a Balanced Binary Search Tree (BST), specifically an AVL tree, which 
 self-balances to maintain optimal search, insert, and delete operations times.The program offers multiple options to 
 manage a balanced BST effectively, leveraging various algorithms and data structures, including tree nodes, rotation mechanisms, 
@@ -35,8 +30,6 @@ graph TD;
     binarySearchTreeClass-->balancedBinarySearchTreeClass;
     balancedBinarySearchTreeClass-->Main.cpp;
 ```
-
-****************************
 ##### This project contains multiple files that divide the workload.
 - main.cpp: <br>
     This file is used to test the AVL Trees implementation. It creates a tree, inserts nodes, displays the tree, and deletes nodes. 
