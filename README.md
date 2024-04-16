@@ -1,5 +1,5 @@
 
-#  *----------------    Wheaton College MA - Spring 2024   ---------------*
+#  *----------------  Wheaton College, MA - Spring 2024   ---------------*
 
 ****************************
 # COMP 318 Algorithms - Project 2 
