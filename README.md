@@ -37,13 +37,12 @@ graph TD;
     This file is used to create the AVL Trees Object Data Structure which holds the nodes of the tree and the methods to manipulate the tree.
 
 - AVLtrees.h:<br>
-  This is the header file for the AVLtrees.cpp file. It contains the three classes hierarchy (binaryTreeClass, binarySearchTreeClass, balancedBinarySearchTreeClass) and the methods' prototypes.
+  This is the header file for the AVLtrees.cpp file. It contains the three classes hierarchy (binaryTreeClass, binarySearchTreeClass, balancedBinarySearchTreeClass) and the methods' prototypes. <br>
 
-<br>
 ****************************
 <br><br>
 ## Getting Started
-<br>
+
 #### This program uses the following libraries:
 - #include \<iostream>
 - #include \<queue>
@@ -63,8 +62,8 @@ graph TD;
 After downloading the code, please create a new project on CLion and select the folder containing the program as the project folder.
 It will ask you to either use the files existing inside the folder or create a blank design, please select to use the files inside the folder.
 The CMakeList.txt file and cmake-build-debug folder should include all the necessary files needed to run this program on CLion.
-### Executing program
 
+### Executing program
 
 #### On CLion
 Click the run button - or - Shift + F10
