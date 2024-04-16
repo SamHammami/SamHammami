@@ -1,7 +1,6 @@
 
-#  *----------------  Wheaton College, MA - Spring 2024   ---------------* <br><br>
+#  *----------------  Wheaton College, MA - Spring 2024   ---------------* <br><br><br><br>
 
-****************************
 ## COMP 318 Algorithms - Project 2 
 ### Description - ***AVL Trees***
 This project introduces an implementation of a Balanced Binary Search Tree (BST), specifically an AVL tree, which 
