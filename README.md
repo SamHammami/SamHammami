@@ -276,9 +276,9 @@ List of authors/contributors’ names and contact info:
 
 * Final Testing - April 12, 2024
 
-* Checking-In with Professor Tony - April 15, 2024
+* Checking-In with Professor **Tony** - April 15, 2024
 
-* Uploading the final version - Sam - April 15, 2024
+* Uploaded_Final Version - April 15, 2024
 ****************************
 
 ## License
