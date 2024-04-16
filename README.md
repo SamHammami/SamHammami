@@ -41,6 +41,7 @@ graph TD;
 
   
 ****************************
+<br><br><br>
 ## Getting Started
 
 #### This program uses the following libraries:
@@ -49,14 +50,11 @@ graph TD;
 - #include \<iomanip>
 - #include \<cmath>
 
-
-
 #### CMake Minimum version
 - cmake_minimum_required(VERSION 3.27)
 
 ### Compiler version
 - Clang C++ compiler
-
 
 ### Installing /compiling
 
