@@ -1,5 +1,5 @@
 
-#  *----------------  Wheaton College, MA - Spring 2024   ---------------* <br><br><br><br>
+#  *----------------  Wheaton College, MA - Spring 2024   ---------------* <br><br><br>
 
 ## COMP 318 Algorithms - Project 2 
 ### Description - ***AVL Trees***
