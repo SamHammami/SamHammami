@@ -40,7 +40,7 @@ graph TD;
   This is the header file for the AVLtrees.cpp file. It contains the three classes hierarchy (binaryTreeClass, binarySearchTreeClass, balancedBinarySearchTreeClass) and the methods' prototypes. <br>
 
 ****************************
-<br><br>
+
 ## Getting Started
 
 #### This program uses the following libraries:
@@ -68,8 +68,11 @@ The CMakeList.txt file and cmake-build-debug folder should include all the neces
 #### On CLion
 Click the run button - or - Shift + F10
 <br><br>
-<br><br><be>
-<br><br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 #### Run the code - It should be like: 
 
 ```
