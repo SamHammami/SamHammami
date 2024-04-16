@@ -288,4 +288,3 @@ This project is licensed under the [MIT] License - see the LICENSE file for deta
 
 - We also acknowledge **Sam Hammami** for his hard work and dedication to this project.
 
-****************************
